@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**adityalevine/adityalevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack 🛠️
+<div align="center">
+ <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/354259/react.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/330398/express.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/373845/mongo.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="50"></code>
+ <br>
+ <br>
+ <code><img src="https://www.svgrepo.com/show/349540/typescript.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/373776/light-prisma.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/452093/redux.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50"></code>
+ <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="50"></code>
+</div>
